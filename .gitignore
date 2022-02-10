@@ -1,0 +1,10 @@
+# General
+Thumbs.db
+
+# Folders
+tmp/
+
+#Others
+*_old
+*_backup
+*.DS_Store
